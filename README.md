@@ -1,8 +1,10 @@
-### Hi there 👋
+### Olá, meu nome é Ruan Gabriel. Muito prazer! 🤞
+
+### my git status
+https://github.com/ruangab
 
 <!--
 **ruangab/ruangab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
