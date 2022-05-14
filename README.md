@@ -1,4 +1,5 @@
 ### Olá, meu nome é Ruan Gabriel. Muito prazer! 🤞
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor Python
 - 🌱 Atualmente estou aprendendo: Python, Javacript e Node
