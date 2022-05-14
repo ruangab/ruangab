@@ -1,10 +1,7 @@
 ### Olá, meu nome é Ruan Gabriel. Muito prazer! 🤞
-- 🔭 Atualmente estou trabalhando em:
-   Sou desenvolvedor Python
-- 🌱 Atualmente estou aprendendo:
-    Python, Javacript e node
 
-
+- 🔭 Atualmente estou trabalhando como desenvolvedor Python
+- 🌱 Atualmente estou aprendendo: Python, Javacript e Node
 
 
 ### Tecnologias com experiencia:
