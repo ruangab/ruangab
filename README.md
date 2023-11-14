@@ -2,7 +2,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 - 🔭 Atualmente estou trabalhando como desenvolvedor Python
-- 🌱 Atualmente estou aprendendo: Python, Javacript e Node
+- 🌱 Atualmente estou aprendendo: Estrutura e análise de dados, padrões de projeto
 
 
 ### Tecnologias com experiencia:
