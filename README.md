@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprendendo: Estrutura e análise de dados, padrões de projeto
 
 
-### Tecnologias com experiencia:
+### Tecnologias com experiencia profissional:
  - Python
      - Flask
      - FastAPI
@@ -16,7 +16,6 @@
  - MongoDB
  - Docker
  - Javascript
- - MySQL
  - Html
  - CSS
 <!--
