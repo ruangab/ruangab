@@ -15,8 +15,6 @@
  - MongoDB
  - Docker
  - Javascript
- - Java
- - Php
  - MySQL
  - Html
  - Css
