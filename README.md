@@ -23,8 +23,7 @@
    - Jquery 
   - Html
   - CSS
-- Outros:
-  - Docker
+
 
 <!--
 <img width="40" height="40" style="display:inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
