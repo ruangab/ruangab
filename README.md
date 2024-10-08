@@ -5,10 +5,11 @@
 <h1 align="center">Olá 👋, eu sou Ruan Gabriel</h1>
 - 🔭 Atualmente estou trabalhando como desenvolvedor Python </br>
 - 🌱 Atualmente estou aprendendo: Estrutura e análise de dados, padrões de projeto
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ruangab&label=Profile%20views&color=b40e0e&style=flat" alt="ruangab" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruangab" alt="ruangab" /></a> </p>
-
+ </br>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruangab&label=Profile%20views&color=b40e0e&style=flat" alt="ruangab" /> </p>
+ -->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruangab" alt="ruangab" /></a> </p>
+ -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ruan-gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruan-gabriel" height="30" width="40" /></a>
