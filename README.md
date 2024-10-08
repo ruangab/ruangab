@@ -1,11 +1,10 @@
 ### Olá, meu nome é Ruan Gabriel. Muito prazer! 🤞
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
+
+<h1 align="center">Olá 👋, eu sou Ruan Gabriel</h1>
 - 🔭 Atualmente estou trabalhando como desenvolvedor Python
 - 🌱 Atualmente estou aprendendo: Estrutura e análise de dados, padrões de projeto
-<h1 align="center">Hi 👋, I'm Ruan Gabriel</h1>
-<h3 align="center">I am a fullstack developer from Brasil</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruangab&label=Profile%20views&color=b40e0e&style=flat" alt="ruangab" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruangab" alt="ruangab" /></a> </p>
