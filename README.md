@@ -3,8 +3,8 @@
 
 
 <h1 align="center">Olá 👋, eu sou Ruan Gabriel</h1>
-- 🔭 Atualmente estou trabalhando como desenvolvedor Python </br>
-- 🌱 Atualmente estou aprendendo: Estrutura e análise de dados, padrões de projeto
+- 🔭 Atualmente estou trabalhando como desenvolvedor Python. </br>
+- 🌱 Atualmente estou aprendendo: React e padrões de projeto.
  </br>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruangab&label=Profile%20views&color=b40e0e&style=flat" alt="ruangab" /> </p>
  -->
